@@ -17,4 +17,4 @@ const Rai = {
 ```
 
 ## My learning Journey
-[![roadmap.sh](https://roadmap.sh/card/wide/6a6265000c2839ce78cb7332?variant=dark&roadmaps=backend)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a6265000c2839ce78cb7332?variant=dark&roadmaps=" alt="roadmap.sh"/></a>
